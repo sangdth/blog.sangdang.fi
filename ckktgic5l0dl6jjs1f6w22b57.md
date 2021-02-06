@@ -4,7 +4,7 @@ Recently I found out `coc-explorer` has float mode, which is really useful.
 
 In case you don't know what is it, `coc-explorer` is a file explorer for neovim, but I think it could work with normal vim despite I didn't test.
 
-First step, of course,  [install it](https://github.com/weirongxu/coc-explorer#usage) , please refer to its GitHub doc.
+First step, of course,  [install it](https://github.com/weirongxu/coc-explorer#usage) , please go to the GitHub doc.
 
 Then add a preset into `coc-settings.json` (you can open it by using `:CocConfig` command.)
 
