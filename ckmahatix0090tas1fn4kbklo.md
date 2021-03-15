@@ -16,4 +16,4 @@ After that, in 999+ places in my project, I simply get them by :
 ```
 import { ...something I need } from 'lib/helpers';
 ```
-If at anytime the Apollo changed their package name or you want to do your own `useQuery`, you can simply go to only one place and reference it to the new destination. Not going to find and do it in 999+ places.
+If at anytime the Apollo changed their package name or you want to do your own `useFoo`, you can simply go to only one place and reference it to the new destination. Not going to find and do it in 999+ places.
