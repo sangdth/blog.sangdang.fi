@@ -9,7 +9,7 @@ Says, I have a place like this:
 // my-project/lib/helpers.ts
 export { useQuery, useMutation } from '@apollo/client';
 export { default as useFoo } from 'foo-project';
-export { useBar } from '../myCustomHooks';
+export * from '../myCustomHooks';
 ```
 
 After that, in 999+ places in my project, I simply get them by :
