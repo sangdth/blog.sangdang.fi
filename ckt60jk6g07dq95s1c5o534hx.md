@@ -1,4 +1,4 @@
-## My journey of learning back end (1): Setu
+## My journey of learning back end (1): Setup
 
 This is not a series of tutorials. So there are parts that you might have to work on your own, like, setup ESLint, installing/setup Node on your machine. Luckily you can do it with just a couple of Google searchs.
 
