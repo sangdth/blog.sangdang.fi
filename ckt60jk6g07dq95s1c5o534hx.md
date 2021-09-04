@@ -1,4 +1,4 @@
-## My journey of learning back end (1)
+## My journey of learning back end (1): Setu
 
 This is not a series of tutorials. So there are parts that you might have to work on your own, like, setup ESLint, installing/setup Node on your machine. Luckily you can do it with just a couple of Google searchs.
 
@@ -180,6 +180,8 @@ There are  [some differences between](https://stackoverflow.com/questions/249581
 > 
 If is a local tar archive in a recognized compression format (identity, gzip, bzip2 or xz) then it is unpacked as a directory. Resources from remote URLs are not decompressed.
 
+- ###  Documentation is not correct
+ [This comment](https://github.com/moby/moby/issues/31101#issuecomment-865801157)  in GitHub confirms that we can use `extends` in version 3, but the  [documentation](https://docs.docker.com/compose/extends/#understand-the-extends-configuration)   [still not update](https://github.com/docker/compose/pull/7588#issuecomment-709354500)  (yet).
 
 - ### If you see the error: 
 ```text
