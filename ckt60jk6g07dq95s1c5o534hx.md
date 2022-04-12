@@ -46,7 +46,7 @@ According to Koa team, it's a feature, not a bug :D
 OK, server can run, now we need to setup Docker. I will write more details in this section because this is the part I have to learn.
 
 ```Dockerfile
-# Dockerfile contains specifications for creating an image
+# Dockerfile contains specifications for creating an image 
 
 ARG NODE_VERSION=14.15.2
 
